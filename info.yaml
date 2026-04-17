@@ -3,8 +3,8 @@ project:
   wokwi_id:     461549152147532801       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "astronomer"      # Project title
   author:       "shuaib"      # Your name
-  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  discord:      "astronomer"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  description:  "votingsystem"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
@@ -39,7 +39,7 @@ pinout:
   uio[0]: ""
   uio[1]: ""
   uio[2]: ""
-  uio[3]: ""
+  uio[3]: "result"
   uio[4]: ""
   uio[5]: ""
   uio[6]: ""
