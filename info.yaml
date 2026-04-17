@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     0       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        ""      # Project title
+  wokwi_id:     461549152147532801       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  title:        "astronomer"      # Project title
   author:       ""      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  ""      # One line description of what your project does
@@ -17,9 +17,9 @@ project:
 pinout:
   # Inputs
   ui[0]: ""
-  ui[1]: ""
-  ui[2]: ""
-  ui[3]: ""
+  ui[1]: "voter1"
+  ui[2]: "voter2"
+  ui[3]: "hassana"
   ui[4]: ""
   ui[5]: ""
   ui[6]: ""
@@ -29,7 +29,7 @@ pinout:
   uo[0]: ""
   uo[1]: ""
   uo[2]: ""
-  uo[3]: ""
+  uo[3]: "result"
   uo[4]: ""
   uo[5]: ""
   uo[6]: ""
