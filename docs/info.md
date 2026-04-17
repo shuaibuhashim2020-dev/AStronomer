@@ -17,4 +17,4 @@ use an led to test the voting
 
 ## External hardware
 
- LED , push button
+ LED push button
